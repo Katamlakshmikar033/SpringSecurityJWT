@@ -71,12 +71,7 @@ src/main/java/org/security/springsecurityjwt/
 
 ### 1. Clone the repository
 
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_FOLDER>
-```
-
-Replace the placeholders with your actual GitHub repository URL and project folder name.
+https://github.com/Katamlakshmikar033/SpringSecurityJWT.git
 
 ### 2. Create the database
 
